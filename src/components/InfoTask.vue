@@ -70,7 +70,7 @@ export default {
   width: 30%;
   background-color: #f2f2f2;
   border-radius: 10px;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.411);
   padding: 20px;
   height: 160px;
   margin-top: 20px;
@@ -105,8 +105,8 @@ export default {
     padding: 30px;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
-    margin-top: 140px;
+    width: 70%;
+    margin-top: 110px;
   }
 }
 /* Estilos para tablets */
@@ -115,7 +115,7 @@ export default {
     margin-left: auto;
     margin-right: auto;
     width: 60%;
-    margin-top: 130px;
+    margin-top: 120px;
     padding: 15px;
   }
 }

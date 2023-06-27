@@ -159,11 +159,14 @@ h2 {
 /* Estilos para dispositivos móviles */
 @media (max-width: 767px) {
   .popup {
-    width: 60%;
+    width: 80%;
     padding: 10px 10px 18px 10px;
   }
   .popup .btn-cerrar {
     font-size: 20px;
+  }
+  h2{
+    margin-bottom: 25px;
   }
 }
 </style>
